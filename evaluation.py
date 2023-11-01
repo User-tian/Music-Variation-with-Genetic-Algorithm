@@ -1,4 +1,3 @@
-from multiprocessing.sharedctypes import Value
 import music21 as m21
 import numpy as np
 

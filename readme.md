@@ -26,5 +26,12 @@ input: music phrase(2-8 bars); output: music phrase(corresponding number of bars
   - Endingnote: To revise the variation according to structural information(naïve structural information, such as [verse 4]or [chorus 2])——to add some consistency in the changing process
 ## Usage
 
-Provided several example running command in **./run.sh** file, covering all the available inputs.
+This code is run in an **Python 3.9** environment.
+
+To install relevant packages, run:
+```bash
+pip install -r requirements.txt
+```
+
+Several running command examples is provided in **./run.sh** file, covering all the available inputs.
 
